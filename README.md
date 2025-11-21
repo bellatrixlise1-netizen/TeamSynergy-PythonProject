@@ -1,7 +1,14 @@
 ﻿# TeamSynergy-PythonProject
- #Purpose of the Repository
+ # **Team Alpha Python Project**
+
+This project is a collaboration between **Aiman Asghar** and **Uswa Fatima**. <br>
+We are building a smart calculator and a guessing game.
+
+## **Features**
+* Smart Calculator
+* Guessing Game
+
+ **Purpose of the Repository**
  The purpose of this repository is to add two separate functions into same code file using command line to get familiar with the git and gihhub environment.
  #Outcomes
  The outcome is simply a familiarity with the working of git using commands.
- #Codes
- The repo contains a code with two functions. One that works as a caculator and the other as an interesting word guess game(If you guess wrong, the code will remove your windows. Just kidding!!!). The user selects the desired function from the menu and the chosen function will be executed respectively.
